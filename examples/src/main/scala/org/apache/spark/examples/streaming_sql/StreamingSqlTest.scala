@@ -5,4 +5,5 @@ package org.apache.spark.examples.streaming_sql
  */
 class StreamingSqlTest{
   val a = 18
+  val b = 20 
 }
