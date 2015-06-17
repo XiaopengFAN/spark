@@ -33,7 +33,7 @@ import org.apache.spark.util.Utils
  ** Utilities for running commands with the spark classpath.
  */
 private[deploy]
-object CommandUtils extends Logging {
+object CommandUtils extends   Logging {
 
   /**
    * Build a ProcessBuilder based on the given parameters.
